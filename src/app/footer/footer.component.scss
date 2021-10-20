@@ -1,0 +1,42 @@
+.address{
+    padding-top: 70px;
+    font-size: 10px;
+    line-height: 1.8;
+}
+
+@media only screen and (max-width: 430px) {
+    .address{
+        padding-top: 40px;
+    }
+    .f-26 {
+       font-size: 10px;
+     }
+    .f-12 {
+       font-size: 6px;
+     }
+    .f-10 {
+       font-size: 6px;
+     }
+      .col-6{
+       width: 100%;
+   }
+   .col-3{
+       width: 100%;
+   }
+   .col-4{
+       width: 100%;
+   }
+   .img-fluid{
+       display: none;
+   }
+   }
+@media only screen and (max-width: 770px) {
+    .img-fluid{
+        display: none;
+    }
+    .col-6{
+        width: 100%;
+        
+    }
+   }
+  
